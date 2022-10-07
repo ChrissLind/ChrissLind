@@ -1,6 +1,4 @@
-<div class=HeadSticker align="center">
-    <img src="https://giphy.com/gifs/video-games-retro-classic-qK2WSgYX1B5CM" width="300"/>
-</div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/qK2WSgYX1B5CM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/video-games-retro-classic-qK2WSgYX1B5CM">via GIPHY</a></p>
 
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/emd07">
