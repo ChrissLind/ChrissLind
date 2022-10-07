@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/chris-lind-749883230">
+  <a href="https://www.linkedin.com/in/chris-lind-749883230/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/notchris_">
