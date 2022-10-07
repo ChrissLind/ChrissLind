@@ -5,10 +5,6 @@
   <a href="https://instagram.com/notchris_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
-  <a href="mailto:chrislindino@gmail.com"><img src="https://img.shields.io/badge/EMAIL-purple?style=for-the-badge"></a>
-  <a href='./EGMD_resume.pdf'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
-</div>
 
 <h1 align="center">Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Chris</h1>
 <h3 align="center">Im a passionate full-stack software engineer living in Puerto Rico.</h3>
