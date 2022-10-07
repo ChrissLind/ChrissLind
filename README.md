@@ -1,5 +1,3 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/qK2WSgYX1B5CM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/video-games-retro-classic-qK2WSgYX1B5CM">via GIPHY</a></p>
-
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/emd07">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,8 +13,8 @@
   <a href='./EGMD_resume.pdf'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
 </div>
 
-<h1 align="center">Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Eiden</h1>
-<h3 align="center">Im a passionate full-stack software engineer from Puerto Rico.</h3>
+<h1 align="center">Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Chris</h1>
+<h3 align="center">Im a passionate full-stack software engineer living in Puerto Rico.</h3>
 
 
 
@@ -26,7 +24,7 @@
 * 🌎 Let's collaborate.<br>
 * ⚙️ Always looking for new technologies to work on.<br>
 * ✨ I'm interested in music, books and tv series.<br>
-* 📫 You can reach me at egabriel0208@proton.me<br>
+* 📫 You can reach me at chrislindino@gmail.com<br>
 * 🤝 Feel free to connect with me.
 
 # 💻 Languages:
