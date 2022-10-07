@@ -1,5 +1,5 @@
 <div class=HeadSticker align="center">
-    <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="300"/>
+    <img src="https://giphy.com/gifs/video-games-retro-classic-qK2WSgYX1B5CM" width="300"/>
 </div>
 
 <div id="badges" align="center">
