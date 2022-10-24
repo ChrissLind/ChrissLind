@@ -6,13 +6,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-<h1 align="center">Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Chris</h1>
+<h1 align="center">Hello! I'm Chris</h1>
 <h3 align="center">Im a passionate full-stack software engineer living in Puerto Rico.</h3>
 
 
 
 
-# 💫 About Me:
+# About Me:
 * 📖 I’m currently Studying at Holberton School Puerto Rico.<br>
 * 🌎 Let's collaborate.<br>
 * ⚙️ Always looking for new technologies to work on.<br>
