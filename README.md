@@ -9,8 +9,6 @@
 </div>
 
 <h1 align="center">Hey, I'm Chris</h1>
-<h3 align="center">I am a Data engineer living in Puerto Rico.</h3>
-
 
 
 
