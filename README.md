@@ -8,17 +8,16 @@
   <a href='./Chris Resume-1.pdf'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
 </div>
 
-<h1 align="center">Hello! I'm Chris</h1>
-<h3 align="center">Im a passionate full-stack software engineer living in Puerto Rico.</h3>
+<h1 align="center">Hey, I'm Chris</h1>
+<h3 align="center">I am a Data engineer living in Puerto Rico.</h3>
 
 
 
 
 # About Me:
-* 📖 I’m currently studying at Holberton School Puerto Rico.<br>
-* ✨ I'm interested in gaming/esports, skateboarding and systems integration.<br>
-* 📫 You can reach me at chrislindino@gmail.com<br>
-* 🤝 Feel free to connect with me.
+*  I’m currently working at Coqui Health in Puerto Rico.<br>
+*  I'm interested in Data Engineering, Gaming/esports, Mathmatics, and Game Dev.<br>
+*  You can reach me at chrislindino@gmail.com<br>
 
 # 💻 Languages:
 
